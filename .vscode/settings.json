@@ -1,0 +1,8 @@
+{
+    "go.gopath": "/home/yogendra-atluri/go",
+    "go.goroot": "/home/linuxbrew/.linuxbrew/Cellar/go/1.26.4/libexec",
+    "go.toolsManagement.autoUpdate": true,
+    "go.useLanguageServer": true,
+    "go.lintOnSave": "package",
+    "go.formatTool": "goimports"
+}
